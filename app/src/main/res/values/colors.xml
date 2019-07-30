@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e5e5e5</color>
+    <color name="colorPrimaryDark">#e5e5e5</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+
+    <color name="myRed">#db3236</color>
+    <color name="myBlue">#4885ed</color>
+    <color name="myGreen">#3cba54   </color>
+    <color name="white">#ffffff</color>
+    <color name="balck">#000000</color>
+
+
+
+</resources>
